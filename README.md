@@ -1,2 +1,2 @@
-# projects
-projects done using python and excel
+# EDA practice
+
